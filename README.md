@@ -88,17 +88,6 @@ By completing this summer prep (June-August 2026), students will be able to:
 - [ ] Recurrence relations and solving
 - [ ] Amortized analysis
 
-**Cloud Topics:**
-- [ ] Cloud computing fundamentals
-- [ ] IaaS vs PaaS vs SaaS models
-- [ ] AWS account setup and free tier
-- [ ] AWS Console familiarization
-
-**Testing Topics:**
-- [ ] Testing pyramid (Unit → Integration → E2E)
-- [ ] Software quality metrics
-- [ ] Test automation benefits
-- [ ] SDLC and testing phases
 
 **Deliverables:**
 - ✅ GitHub repository with proper structure
