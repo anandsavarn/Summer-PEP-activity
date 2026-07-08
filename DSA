@@ -1,1 +1,86 @@
 
+Day 1:
+Q1. Validate Binary Search Tree
+class Solution {
+public:
+    bool isValidBST(TreeNode* root) {
+        return validate(root, LONG_MIN, LONG_MAX);
+    }
+
+    bool validate(TreeNode* node, long minVal, long maxVal) {
+        if (node == NULL) return true;
+
+        if (node->val <= minVal || node->val >= maxVal)
+            return false;
+
+        return validate(node->left, minVal, node->val) &&
+               validate(node->right, node->val, maxVal);
+    }
+};
+ 
+
+
+Q2. Construct Binary Search Tree from Preorder Traversal
+
+class Solution {
+public:
+    int idx = 0;
+
+    TreeNode* build(vector<int>& preorder, int bound) {
+
+        if (idx == preorder.size() || preorder[idx] > bound)
+            return NULL;
+
+        TreeNode* root = new TreeNode(preorder[idx++]);
+
+        root->left = build(preorder, root->val);
+        root->right = build(preorder, bound);
+
+        return root;
+    }
+
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+
+        return build(preorder, INT_MAX);
+    }
+};
+
+Q3. Binary Tree Level Order Traversal
+
+class Solution {
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+
+        vector<vector<int>> ans;
+
+        if (root == NULL)
+            return ans;
+
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+
+            int size = q.size();
+            vector<int> level;
+
+            for (int i = 0; i < size; i++) {
+
+                TreeNode* node = q.front();
+                q.pop();
+
+                level.push_back(node->val);
+
+                if (node->left)
+                    q.push(node->left);
+
+                if (node->right)
+                    q.push(node->right);
+            }
+
+            ans.push_back(level);
+        }
+
+        return ans;
+    }
+};
