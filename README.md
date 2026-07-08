@@ -8,14 +8,13 @@
 [![Last Updated](https://img.shields.io/badge/Updated-June%202026-yellow.svg?style=for-the-badge)](https://github.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-**A Comprehensive 12-Week Summer Learning Program | June - August 2026**
+**A Comprehensive 12-Week Summer Learning Program | July - August 2026**
 
 *Master Advanced Data Structures, Cloud Infrastructure, and Testing Strategies*
 
 **Student Portfolio:** [anandsavarn.vercel.app](https://anandsavarn.vercel.app)  
 **LeetCode Profile:** [@anandsavarn](https://leetcode.com/u/anandsavarn/)
 
-[🎯 Quick Start](#quick-start) • [📚 Syllabus](#syllabus) • [🗺️ Roadmap](#roadmap) • [💻 LeetCode Progress](#leetcode-progress) • [📁 Repository](#repository-structure) • [💻 Projects](#projects) • [🎓 Resources](#resources)
 
 </div>
 
@@ -29,9 +28,9 @@ This repository contains **complete course materials, lecture notes, code exampl
 
 **Name:** Anand Kumar  
 **Roll No:** 12320597  
-**University:** Lovely Professional University (LPU), Punjab  
+**University:** Lovely Professional University (LPU), Punjab (INDIA)
 **Portfolio:** [anandsavarn.vercel.app](https://anandsavarn.vercel.app)  
-**GitHub:** [@Anandsavran](https://github.com/Anandsavran)  
+**GitHub:** [@Anandsavran](https://github.com/Anandsavarn)  
 **LeetCode:** [@anandsavarn](https://leetcode.com/u/anandsavarn/)  
 **Email:** [anandsavarn@gmail.com](mailto:anandsavarn@gmail.com)
 
