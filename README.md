@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Summer%20Prep%202026&fontSize=48&fontColor=f0b429&fontAlignY=40&desc=Advanced%20DSA%20%7C%20Cloud%20Computing%20%7C%20Software%20Testing&descAlignY=62&descColor=ffd166&animation=fadeIn" width="100%"/>
 
-# 🎓 Summer Prep Classes 2026 - Complete Learning Roadmap
-
 <div align="center">
 
 [![Course Level](https://img.shields.io/badge/Level-Advanced-red.svg?style=for-the-badge)](https://github.com)
