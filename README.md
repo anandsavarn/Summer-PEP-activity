@@ -28,7 +28,7 @@ This repository contains **complete course materials, lecture notes, code exampl
 
 **Name:** Anand Kumar  
 **Roll No:** 12320597  
-**University:** Lovely Professional University (LPU), Punjab (INDIA)
+**University:** Lovely Professional University (LPU), Punjab (INDIA) 
 **Portfolio:** [anandsavarn.vercel.app](https://anandsavarn.vercel.app)  
 **GitHub:** [@Anandsavran](https://github.com/Anandsavarn)  
 **LeetCode:** [@anandsavarn](https://leetcode.com/u/anandsavarn/)  
@@ -80,7 +80,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 ### **WEEK 1-2: Foundations & Environment Setup**
 **Dates: June 1-14, 2026**
 
-#### Week 1: Course Kickoff (June 1-7)
+#### Week 1: Course Kickoff (June 12-14)
 
 **DSA Topics:**
 - [ ] Time and space complexity analysis
@@ -138,7 +138,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 ### **WEEK 3-4: Intermediate Level**
 **Dates: June 15-28, 2026**
 
-#### Week 3: Trees & Advanced Services (June 15-21)
+#### Week 3: Trees & Advanced Services (June 15-17)
 
 **DSA Topics:**
 - [ ] Binary tree structure and traversals
@@ -171,7 +171,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 
 ---
 
-#### Week 4: Graphs & Containers (June 22-28)
+#### Week 4: Graphs & Containers (June 17-18)
 
 **DSA Topics:**
 - [ ] Graph representations (adjacency list/matrix)
@@ -212,7 +212,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 ### **WEEK 5-6: Advanced Topics - Part 1**
 **Dates: June 29 - July 12, 2026**
 
-#### Week 5: Advanced Graphs & Kubernetes (June 29 - July 5)
+#### Week 5: Advanced Graphs & Kubernetes (June 19 - 24)
 
 **DSA Topics:**
 - [ ] Minimum spanning tree (Kruskal's, Prim's)
@@ -245,7 +245,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 
 ---
 
-#### Week 6: Dynamic Programming & Microservices (July 6-12)
+#### Week 6: Dynamic Programming & Microservices (Jun 25-30)
 
 **DSA Topics:**
 - [ ] DP fundamentals and memoization
@@ -286,7 +286,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 ### **WEEK 7-8: Advanced Topics - Part 2**
 **Dates: July 13-26, 2026**
 
-#### Week 7: Tries, String Algorithms & CI/CD (July 13-19)
+#### Week 7: Tries, String Algorithms & CI/CD (July 1-04)
 
 **DSA Topics:**
 - [ ] Trie data structure implementation
@@ -320,7 +320,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 
 ---
 
-#### Week 8: Segment Trees & DevOps (July 20-26)
+#### Week 8: Segment Trees & DevOps (July 5-11)
 
 **DSA Topics:**
 - [ ] Segment tree implementation
@@ -362,7 +362,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 ### **WEEK 9-10: Competitive Programming & System Design**
 **Dates: July 27 - August 9, 2026**
 
-#### Week 9: Advanced Problem Solving (July 27 - Aug 2)
+#### Week 9: Advanced Problem Solving (July 12 - 19)
 
 **DSA Topics:**
 - [ ] Competitive programming strategies
@@ -395,7 +395,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 
 ---
 
-#### Week 10: System Design & Security (Aug 3-9)
+#### Week 10: System Design & Security (Jul 19-23)
 
 **DSA Topics:**
 - [ ] Bit manipulation techniques
@@ -436,7 +436,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 ### **WEEK 11-12: Capstone Projects & Career Preparation**
 **Dates: August 10-23, 2026**
 
-#### Week 11: Capstone Project Development (Aug 10-16)
+#### Week 11: Capstone Project Development (Jul 24-31)
 
 **Integrated Project:** Full-Stack Cloud Application with Testing
 
@@ -470,7 +470,7 @@ By completing this summer prep (June-August 2026), students will be able to:
 
 ---
 
-#### Week 12: Final Presentations & Career (Aug 17-23)
+#### Week 12: Final Presentations & Career (Aug 01-07)
 
 **Final Assessment:**
 - [ ] Capstone project presentation (15 min)
@@ -1015,21 +1015,7 @@ summer-prep-2026/
 ### Video Resources
 - Andrew Ng (Cloud Computing)
 - Traversy Media (Testing)
-
 ---
-
-## 📞 Contact & Support
-
-**Student:** Anand Kumar  
-**Portfolio:** [anandsavarn.vercel.app](https://anandsavarn.vercel.app)  
-**LeetCode:** [@anandsavarn](https://leetcode.com/u/anandsavarn/)  
-**GitHub:** [@Anandsavran](https://github.com/Anandsavran)  
-**Email:** [anandsavarn@gmail.com](mailto:anandsavarn@gmail.com)  
-**LinkedIn:** [/in/anandsavarn](https://www.linkedin.com/in/anandsavarn/)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=220&section=footer&text=Summer%202026%20Success&fontSize=42&fontColor=f0b429&fontAlignY=40&desc=Commit%20to%20Excellence%20%7C%20Build%20Your%20Future&descAlignY=62&descColor=ffd166&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -1037,11 +1023,12 @@ summer-prep-2026/
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-anandsavarn.vercel.app-blue?style=for-the-badge)](https://anandsavarn.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-@anandsavarn-orange?style=for-the-badge)](https://leetcode.com/u/anandsavarn/)
-[![GitHub](https://img.shields.io/badge/GitHub-@Anandsavran-black?style=for-the-badge)](https://github.com/Anandsavran)
+[![GitHub](https://img.shields.io/badge/GitHub-@Anandsavran-black?style=for-the-badge)](https://github.com/Anandsavarn)
 [![Email](https://img.shields.io/badge/Email-anandsavarn%40gmail.com-red?style=for-the-badge)](mailto:anandsavarn@gmail.com)
 
 **Ready to Transform Your Career? Let's Get Started! 🚀**
 
 **Last Updated:** June 2026 | **Version:** 1.0
+<img src="https://capsule-render.vercel.app/api?type=waving&color=400:00ff88,800:003300,800:0a0a0a&height=120&section=footer" width="100%"/>
 
 </div>
