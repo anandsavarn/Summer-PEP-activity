@@ -1,8 +1,7 @@
-
 Day 1:
 Q1. Validate Binary Search Tree
 class Solution {
-public:
+public: 
     bool isValidBST(TreeNode* root) {
         return validate(root, LONG_MIN, LONG_MAX);
     }
@@ -84,3 +83,8 @@ public:
         return ans;
     }
 };
+
+
+
+Day 2.
+Q4. 
